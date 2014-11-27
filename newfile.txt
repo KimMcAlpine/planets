@@ -1,1 +1,2 @@
-this is a new file to push to the repo
+this is a new file to push to the repo,
+now we are trying to make a crash 
